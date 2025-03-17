@@ -1,0 +1,36 @@
+.container {
+    height: 700px;
+    background-color: #797978;
+    padding-left: 30px;
+}
+h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+}
+#height, #weight {
+    height: 25px;
+    width: 200px;
+    margin-top: 30px;
+}
+#result {
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+}
+.weight-guide {
+    margin-left: 75px;
+    margin-top: 75px;
+}
+button {
+    height: 35px;
+    width: 150px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #fff;
+    border: 2px solid #212121;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    font-size: 25px;
+}
