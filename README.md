@@ -1,1 +1,1 @@
-Website is live! - https://github.com/AI-AsifIqbal/Javascript
+Website is live! - https://AI-AsifIqbal.github.io/Javascript/
